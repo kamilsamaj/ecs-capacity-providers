@@ -1,0 +1,6 @@
+[submodule "git-repos/ecsdemo-capacityproviders"]
+	path = git-repos/ecsdemo-capacityproviders
+	url = https://github.com/adamjkeller/ecsdemo-capacityproviders
+[submodule "git-repos/container-demo"]
+	path = git-repos/container-demo
+	url = https://github.com/brentley/container-demo
